@@ -109,6 +109,19 @@ class SortingRobot:
         # turn the light on and begin work
         # grab the current index
         # while the light is on do something....
+        # turn off the light, we will set it again later
+
+        # while we can move right we will move right
+        # move right
+
+        # Compare current index with what we have
+        # if our item < current index keep moving
+        # else swap items
+
+        # once we have readched the end, take our item to the far left and insert it
+
+        # while we can move left we will move left
+        # compare values before moving
 
         pass
 
